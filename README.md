@@ -20,7 +20,7 @@ A comprehensive command-line personal finance management system built with Pytho
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lisan-5/personal-finance-manager-pro.git
+git clone https://github.com/lisan-5/Personal-Finance-Manager.git
 cd personal-finance-manager-pro
 ```
 
