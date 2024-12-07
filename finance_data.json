@@ -1,0 +1,35 @@
+{
+  "expenses": [
+    {
+      "timestamp": "2024-12-06 10:56:29",
+      "amount": 300.0,
+      "category": "Housing",
+      "description": "bad decision"
+    }
+  ],
+  "income": [
+    {
+      "timestamp": "2024-12-07 11:33:53",
+      "amount": 200.0,
+      "description": "gift"
+    }
+  ],
+  "budget": {
+    "Food": 3.0,
+    "Transportation": 4.0,
+    "Housing": 5.0,
+    "Utilities": 6.0,
+    "Entertainment": 7.0,
+    "Healthcare": 8.0,
+    "Other": 6.0
+  },
+  "categories": [
+    "Food",
+    "Transportation",
+    "Housing",
+    "Utilities",
+    "Entertainment",
+    "Healthcare",
+    "Other"
+  ]
+}
